@@ -119,7 +119,7 @@ end
 
 In elixir we can have different methods with the same name, but only change our params types or quantity:
 
-```
+```elixir
 defmodule Cards do
   def shuffle do
   end
@@ -128,6 +128,11 @@ defmodule Cards do
     Enum.shuffle(deck)
   end
 end
+```
+
+Then we could run them inside `iex` with:
+
+```elixir
 Cards.shuffle
 Cards.shuffle(["Ace"])
 ```
@@ -151,7 +156,7 @@ defmodule Cards do
 end
 ```
 
-Inside iex run:
+Then we could run inside `iex`:
 
 ```elixir
 # create cards list
@@ -185,7 +190,7 @@ defmodule Cards do
 end
 ```
 
-Inside iex run:
+Inside `iex` run:
 
 ```elixir
 deck = Cards.create_deck
