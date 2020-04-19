@@ -1,8 +1,8 @@
 # Elixir Study - The Complete Elixir and Phoenix Bootcamp
 
-## Section 01 - Elixir Warmup
+This are some notes for the course [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial).
 
-[The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial)
+## Section 01 - Elixir Warmup
 
 ### Mix
 
